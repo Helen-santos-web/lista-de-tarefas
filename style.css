@@ -1,0 +1,36 @@
+@charset "utf-8";
+@font-face {
+    font-family: font1;
+    src: url(font/typewcond_demi.otf);
+}
+
+body{
+    text-align: center;
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p3/12209148-quadro-de-de-nota-de-papel-no-fundo-marrom-de-memphis-vetor.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 900px;
+    margin-top: 150px;
+    font-size: 30px;
+}
+
+h1{
+    font-size: 60px;
+    font-family: font1;
+}
+
+
+footer{
+    position: fixed;
+    top: 95%;
+    left: 35%;
+}
+ 
+input{
+    font-size: 25px;
+    border-radius: 50px;
+}
+
+button {
+    font-size: 25px;
+    border-radius: 50px;
+}
